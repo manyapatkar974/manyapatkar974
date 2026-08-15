@@ -363,17 +363,19 @@ Explores detection of manipulated digital media using computer vision and machin
 <div align="center">
 
 <a href="https://github.com/manyapatkar974">
-
-<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=1683FF">
-
+  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/maanu12262/">
+  <img src="https://img.shields.io/badge/Instagram-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+</a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:manyapatkar@gmail.com">
-
-<img src="https://img.shields.io/badge/GMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=1683FF">
-
+  <img src="https://img.shields.io/badge/Gmail-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
 </a>
 
 </div>
