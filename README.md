@@ -24,17 +24,7 @@
      alt="About Me">
 
 </div>
-
-<br>
-
-<div align="center">
-
-### 👩‍💻 WHO AM I?
-
-</div>
-
 <p align="center">
-
 🎓 <b>Computer Science Engineering Student</b><br>
 💻 Passionate about <b>Full Stack Development</b><br>
 🤖 Exploring <b>AI / ML, Data Science & Deep Learning</b><br>
