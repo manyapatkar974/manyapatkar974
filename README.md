@@ -24,18 +24,14 @@
      alt="About Me">
 
 </div>
-<p align="center">
-🎓 <b>Computer Science Engineering Student</b><br>
-💻 Passionate about <b>Full Stack Development</b><br>
-🤖 Exploring <b>AI / ML, Data Science & Deep Learning</b><br>
-🛡️ Interested in <b>Cybersecurity & Networking</b><br>
-☁️ Exploring <b>Cloud, DevOps & Backend Engineering</b><br>
-🏆 <b>Hackathon Enthusiast</b> & problem solver<br>
-🚀 Turning ideas into <b>real-world solutions</b><br>
-🌱 Always learning, building and improving.
-
-</p>
-
+->🎓 <b>Computer Science Engineering Student</b><br>
+->💻 Passionate about <b>Full Stack Development</b><br>
+->🤖 Exploring <b>AI / ML, Data Science & Deep Learning</b><br>
+->🛡️ Interested in <b>Cybersecurity & Networking</b><br>
+->☁️ Exploring <b>Cloud, DevOps & Backend Engineering</b><br>
+->🏆 <b>Hackathon Enthusiast</b> & problem solver<br>
+->🚀 Turning ideas into <b>real-world solutions</b><br>
+->🌱 Always learning, building and improving.
 <br>
 
 <div align="center">
