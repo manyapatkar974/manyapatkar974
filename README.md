@@ -412,6 +412,14 @@ Explores detection of manipulated digital media using computer vision and machin
 
 </div>
 
+<div align="center">
+
+<img src="./assets/manya_footer_ONLY_LINE.png"
+     width="100%"
+     alt="Thanks for visiting">
+
+</div>
+
 <br>
 
 <div align="center">
