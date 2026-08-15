@@ -281,13 +281,29 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <div align="center">
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=manyapatkar974&show_icons=true&theme=github_dark&hide_border=true&bg_color=07111F&title_color=1683FF&icon_color=1683FF&text_color=C9D1D9&rank_icon=github"
-     alt="GitHub Stats">
+<table>
+<tr>
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyapatkar974&layout=compact&theme=github_dark&hide_border=true&bg_color=07111F&title_color=1683FF&text_color=C9D1D9"
-     alt="Top Languages">
+<td align="center" width="50%">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manyapatkar974&theme=github_dark&bg_color=07111F&title_color=1683FF&text_color=C9D1D9&icon_color=1683FF&border_color=1683FF"
+width="100%"
+alt="Manya Patkar GitHub Stats">
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manyapatkar974&theme=github_dark&bg_color=07111F&title_color=1683FF&text_color=C9D1D9&icon_color=1683FF&border_color=1683FF"
+width="100%"
+alt="Manya Patkar Top Languages">
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -295,9 +311,10 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <div align="center">
 
-<img width="75%"
-     src="https://streak-stats.demolab.com/?user=manyapatkar974&theme=github-dark-blue&hide_border=true&background=07111F&ring=1683FF&fire=1683FF&currStreakLabel=1683FF"
-     alt="GitHub Streak">
+<img
+src="https://streak-stats.demolab.com/?user=manyapatkar974&theme=github-dark-blue&hide_border=true&background=07111F&ring=1683FF&fire=1683FF&currStreakLabel=1683FF"
+width="75%"
+alt="Manya Patkar GitHub Streak">
 
 </div>
 
@@ -305,9 +322,10 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=07111F&color=1683FF&line=1683FF&point=FFFFFF&area=true&hide_border=true"
-     width="100%"
-     alt="GitHub Activity Graph">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=07111F&color=1683FF&line=1683FF&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+alt="Manya Patkar GitHub Activity Graph">
 
 </div>
 
