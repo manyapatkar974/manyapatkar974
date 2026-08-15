@@ -345,7 +345,6 @@ Explores detection of manipulated digital media using computer vision and machin
 <br>
 
 
-
 <!-- ========================================================= -->
 <!--                     CONNECT WITH ME                        -->
 <!-- ========================================================= -->
@@ -358,27 +357,35 @@ Explores detection of manipulated digital media using computer vision and machin
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
 <a href="https://github.com/manyapatkar974">
-  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/maanu12262/">
-  <img src="https://img.shields.io/badge/Instagram-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:manyapatkar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
+
+<br><br>
 
 <br>
 
