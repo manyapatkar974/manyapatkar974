@@ -108,21 +108,18 @@ MISSION :  BUILD • LEARN • CREATE • IMPROVE
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java&theme=dark"
      alt="Backend">
 
-<br><br>
 
 ### 🤖 AI / MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"
      alt="AI ML">
 
-<br><br>
 
 ### 🗄️ DATABASES
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase&theme=dark"
      alt="Databases">
 
-<br><br>
 
 ### ☁️ CLOUD • DEVOPS • TOOLS
 
