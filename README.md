@@ -359,33 +359,49 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <br><br>
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td align="center" style="padding: 0 12px;">
 
 <a href="https://github.com/manyapatkar974">
-<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"
+     alt="GitHub">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" style="padding: 0 12px;">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="LinkedIn">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" style="padding: 0 12px;">
 
 <a href="https://www.instagram.com/maanu12262/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+     alt="Instagram">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center" style="padding: 0 12px;">
 
 <a href="mailto:manyapatkar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="Gmail">
 </a>
 
-</div>
+</td>
 
-<br><br>
+</tr>
+</table>
+
+<br>
 
 <br>
 
