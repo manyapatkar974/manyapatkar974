@@ -94,7 +94,6 @@ MISSION :  BUILD • LEARN • CREATE • IMPROVE
      alt="Tech Stack">
 
 </div>
-
 <br>
 
 <div align="center">
