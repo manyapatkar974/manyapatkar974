@@ -32,6 +32,7 @@
 ->🏆 <b>Hackathon Enthusiast</b> & problem solver<br>
 ->🚀 Turning ideas into <b>real-world solutions</b><br>
 ->🌱 Always learning, building and improving.
+
 <br>
 
 <div align="center">
