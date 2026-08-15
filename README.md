@@ -344,19 +344,7 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <br>
 
-<!-- ========================================================= -->
-<!--                         MOTIVATION                         -->
-<!-- ========================================================= -->
 
-<div align="center">
-
-<img src="./assets/manya_motivation_card_FULL_SIZE.gif"
-     width="85%"
-     alt="Motivation">
-
-</div>
-
-<br>
 
 <!-- ========================================================= -->
 <!--                     CONNECT WITH ME                        -->
@@ -411,6 +399,20 @@ Explores detection of manipulated digital media using computer vision and machin
      alt="Profile Views">
 
 </div>
+
+<!-- ========================================================= -->
+<!--                         MOTIVATION                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_motivation_card_FULL_SIZE.gif"
+     width="85%"
+     alt="Motivation">
+
+</div>
+
+<br>
 <!-- ========================================================= -->
 <!--                           FOOTER                           -->
 <!-- ========================================================= -->
