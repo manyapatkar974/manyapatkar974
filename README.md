@@ -392,17 +392,8 @@ Explores detection of manipulated digital media using computer vision and machin
 
 <br>
 
-<!-- ========================================================= -->
-<!--                           FOOTER                           -->
-<!-- ========================================================= -->
 
-<div align="center">
 
-<img src="./assets/manya_footer_ONLY_LINE.png"
-     width="100%"
-     alt="Thanks for visiting">
-
-</div>
 
 <br>
 
@@ -412,19 +403,22 @@ Explores detection of manipulated digital media using computer vision and machin
 
 </div>
 
-<div align="center">
-
-<img src="./assets/manya_footer_ONLY_LINE.png"
-     width="100%"
-     alt="Thanks for visiting">
-
-</div>
-
 <br>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=manyapatkar974&style=for-the-badge&color=1683FF&label=PROFILE+VIEWS"
      alt="Profile Views">
+
+</div>
+<!-- ========================================================= -->
+<!--                           FOOTER                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_footer_ONLY_LINE.png"
+     width="100%"
+     alt="Thanks for visiting">
 
 </div>
