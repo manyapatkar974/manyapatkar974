@@ -95,6 +95,7 @@ MISSION :  BUILD • LEARN • CREATE • IMPROVE
 
 </div>
 <br>
+
 <div align="center">
 ### 🎨 FRONTEND
 
