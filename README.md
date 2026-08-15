@@ -1,224 +1,298 @@
 <div align="center">
 
-<!-- 🚀 HACKER HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:00ff66&height=230&section=header&text=MANYA%20PATKAR&fontSize=48&fontColor=00ff66&fontAlignY=35&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20CYBERSECURITY%20ENTHUSIAST&descAlignY=58&descColor=00ffff&descSize=16" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+%7C+Cloud+%7C+Backend;Hackathon+Enthusiast;Building+Ideas+Into+Real+World+Projects+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=manyapatkar974&label=PROFILE%20VIEWS&color=00ff66&style=for-the-badge" />
+<img src="./assets/manya_blue_cyber_animated_hero.gif"
+     width="100%"
+     alt="Manya Patkar">
 
 </div>
 
----
+<br>
 
-# 🟢 `whoami`
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
-```text
-> Initializing Manya Patkar...
-> Loading developer profile...
-> Access granted ✓
+<div align="center">
 
-🎓 Computer Science Engineering Student
-💻 Full Stack Developer
-🤖 AI / ML Enthusiast
-🛡️ Cybersecurity Explorer
-☁️ Cloud & Backend Developer
-🏆 Hackathon Enthusiast
-🚀 Turning ideas into real-world solutions
+<img src="./assets/manya_about_me_blue.gif"
+     width="100%"
+     alt="About Me">
 
-STATUS: ONLINE
-MISSION: BUILD • LEARN • CREATE • IMPROVE
-```
+</div>
 
-### 👨‍💻 About Me
-
-* 🎓 Computer Science Engineering student passionate about building real-world solutions.
-* 💻 Interested in **Full Stack Development, Backend Engineering and Modern Web Technologies**.
-* 🤖 Exploring **Artificial Intelligence, Machine Learning and Computer Vision**.
-* 🛡️ Interested in **Cybersecurity, Networking and intelligent security systems**.
-* ☁️ Exploring **Cloud Platforms, APIs, Databases and Deployment**.
-* 🏆 Hackathon enthusiast who enjoys solving practical problems under pressure.
-* 🚀 I love turning ideas into functional applications instead of keeping them only as concepts.
-* 🌱 Constantly learning new technologies and improving my development skills.
-
----
-
-# ⚡ `./current_focus`
-
-```text
-[████████████████████████████████] 100%
-
-▸ Full Stack Development
-▸ AI / Machine Learning
-▸ Backend Engineering
-▸ Cybersecurity
-▸ Cloud Technologies
-▸ System & API Development
-▸ Hackathons & Innovation
-```
-
----
-
-# 🛠️ TECH STACK
-
-### 🌐 Frontend & UI
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,jquery,figma&theme=dark" />
-
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,flask&theme=dark" />
-
-</p>
-
-### 🤖 AI / ML / Data
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-</p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-### 🗄️ Databases & Cloud
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase&theme=dark" />
-
-</p>
-
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-### 🔗 Web3 & Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,web3js&theme=dark" />
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
+<br>
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧾 Receipto
+<td width="50%" valign="top">
 
-**AI-Driven Receipt Processing & Warranty Tracking**
+## 👩‍💻 WHO AM I?
 
-A smart application that uses AI-powered receipt processing to digitize receipts, extract important information, organize expenses and track warranty periods.
+🎓 **Computer Science Engineering Student**
 
-**Focus:**
+💻 Passionate about **Full Stack Development**
 
-* 🤖 AI / OCR
-* 📱 Flutter
-* ⚡ FastAPI
-* 🗄️ PostgreSQL
-* 🔥 Firebase
-* ☁️ Supabase
-* 📊 Expense Analytics
+🤖 Exploring **AI / ML, Data Science & Deep Learning**
 
-</td>
+🛡️ Interested in **Cybersecurity & Networking**
 
-<td width="50%">
+☁️ Exploring **Cloud, DevOps & Backend Engineering**
 
-### 🛡️ CyberShield AI
+🏆 **Hackathon Enthusiast** & problem solver
 
-**AI-Powered Network Threat Detection**
+🚀 Turning ideas into **real-world solutions**
 
-An intelligent cybersecurity system designed to identify malicious network activity using machine learning and network-flow analysis.
-
-**Detects:**
-
-* 🔴 Brute Force
-* 🔴 Port Scanning
-* 🔴 DDoS Attacks
-* 🔴 Slowloris
-* 🔴 ICMP Flood
-* 🟢 Normal Traffic
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 EduSeatMap
-
-**Smart Examination Seat Allotment System**
-
-A web-based examination management platform that automates student seating allocation, invigilation duties and exam reports.
-
-**Built with:**
-
-* ⚛️ React
-* 🎨 Tailwind CSS
-* ⚡ FastAPI
-* 🐘 PostgreSQL
-* 🔥 Firebase
-* 📧 Email Automation
+🌱 Always learning, building and improving.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 TruthLens
+## ⚡ CURRENTLY FOCUSED ON
 
-**AI-Powered Fake Media Detection**
+```text
+> BUILD
+> LEARN
+> EXPERIMENT
+> SOLVE
+> IMPROVE
+```
 
-An AI-focused project exploring detection of manipulated and potentially misleading digital media.
+🔹 Building real-world applications
 
-**Focus:**
+🔹 Exploring AI-powered solutions
 
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision
-* 🧠 Machine Learning
-* 🔎 Media Analysis
+🔹 Strengthening backend & system design
+
+🔹 Learning cloud & deployment technologies
+
+🔹 Exploring cybersecurity
+
+🔹 Building projects through hackathons
+
+<br>
+
+```text
+STATUS : ONLINE 🟢
+
+MISSION :
+BUILD • LEARN • CREATE • IMPROVE
+```
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
 
-# 💡 OTHER PROJECTS
-
-| Project                                   | Description                                                           |
-| ----------------------------------------- | --------------------------------------------------------------------- |
-| ✈️ **Mangalore Airport Terminal Tracker** | Real-time airport information and terminal tracking system            |
-| 🧠 **AI / ML Projects**                   | Experiments involving machine learning, computer vision and NLP       |
-| 🌐 **Full Stack Applications**            | Web applications built using modern frontend and backend technologies |
-| 🛡️ **Cybersecurity Projects**            | Security-focused experiments involving networks and threat detection  |
-
----
-
-# 📊 GITHUB ANALYTICS
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manyapatkar974&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FFFF&text_color=FFFFFF" height="180"/>
+<img src="./assets/manya_tech_stack_exact_style.gif"
+     width="100%"
+     alt="Tech Stack">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyapatkar974&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" height="180"/>
+</div>
+
+<br>
+
+### 🎨 FRONTEND
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,figma&theme=dark"
+     alt="Frontend Technologies">
+
+</p>
+
+### ⚙️ BACKEND
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java&theme=dark"
+     alt="Backend Technologies">
+
+</p>
+
+### 🤖 AI / MACHINE LEARNING
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"
+     alt="AI ML Technologies">
+
+</p>
+
+### 🗄️ DATABASES
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase&theme=dark"
+     alt="Database Technologies">
+
+</p>
+
+### ☁️ CLOUD / DEVOPS / TOOLS
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify&theme=dark"
+     alt="Cloud DevOps Tools">
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_featured_projects_exact_style.gif"
+     width="100%"
+     alt="Featured Projects">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧾 Receipto
+
+### AI-Driven Receipt Processing & Warranty Tracking System
+
+A production-oriented application that digitizes receipts using AI, extracts useful information, securely stores receipt data and helps users track warranties.
+
+**Tech Stack**
+
+`Flutter` `FastAPI` `PostgreSQL`
+
+`Firebase` `Supabase` `Gemini AI`
+
+**Features**
+
+- 📸 AI-powered receipt scanning
+- 🤖 OCR & intelligent data extraction
+- 🧾 Receipt management
+- ⏰ Warranty tracking
+- 📊 Expense analytics
+- 🔔 Warranty reminders
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ CyberShield AI
+
+### AI-Powered Network Threat Detection System
+
+A cybersecurity project focused on detecting suspicious network traffic and identifying different types of cyber attacks using machine learning.
+
+**Tech Stack**
+
+`Python` `Machine Learning`
+
+`Network Security` `AI / ML`
+
+**Features**
+
+- 🔍 Network traffic analysis
+- 🤖 ML-based threat detection
+- 🛡️ Cyberattack classification
+- 📊 Network monitoring
+- 🚨 Security insights
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 EduSeatMap
+
+### Smart Examination Seat Allotment System
+
+A web-based examination management system that automates student seating allocation, faculty invigilation assignment and exam management.
+
+**Tech Stack**
+
+`React` `FastAPI` `PostgreSQL`
+
+`Firebase` `Email Automation`
+
+**Features**
+
+- 🪑 Automated seat allocation
+- 👨‍🏫 Faculty duty allocation
+- 📧 Automated email invitations
+- 📊 Printable reports
+- 🔐 Authentication
+- 🏫 Exam management
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔍 TruthLens
+
+### AI-Powered Fake Media Detection System
+
+An AI-based project designed to explore detection of manipulated or fake digital media using computer vision and machine learning.
+
+**Tech Stack**
+
+`Python` `OpenCV` `Machine Learning`
+
+`AI` `Deep Learning`
+
+**Features**
+
+- 🧠 AI-based detection
+- 👁️ Computer vision
+- 🔎 Media analysis
+- 🤖 Deep learning
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/manyapatkar974?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW_MORE_PROJECTS-1683FF?style=for-the-badge&logo=github&logoColor=white"
+     alt="View More Projects">
+
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_github_analytics_PERFECT.gif"
+     width="100%"
+     alt="GitHub Analytics">
 
 </div>
 
@@ -226,101 +300,130 @@ An AI-focused project exploring detection of manipulated and potentially mislead
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=manyapatkar974&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FFFF&currStreakLabel=00FF66" width="70%"/>
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=manyapatkar974&show_icons=true&theme=github_dark&hide_border=true&bg_color=07111F&title_color=1683FF&icon_color=1683FF&text_color=C9D1D9&rank_icon=github"
+     alt="GitHub Stats">
+
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyapatkar974&layout=compact&theme=github_dark&hide_border=true&bg_color=07111F&title_color=1683FF&text_color=C9D1D9"
+     alt="Top Languages">
 
 </div>
 
----
-
-# 🏆 GITHUB TROPHIES
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manyapatkar974&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+<img width="70%"
+     src="https://streak-stats.demolab.com/?user=manyapatkar974&theme=github-dark-blue&hide_border=true&background=07111F&ring=1683FF&fire=1683FF&currStreakLabel=1683FF"
+     alt="GitHub Streak">
 
 </div>
 
----
-
-# 📈 CONTRIBUTION ACTIVITY
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=0D1117&color=00FF66&line=00FF66&point=00FFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=07111f&color=1683ff&line=1683ff&point=ffffff&area=true&hide_border=true"
+     width="100%"
+     alt="GitHub Activity Graph">
 
 </div>
 
----
+<br>
 
-# 🐍 CONTRIBUTION SNAKE
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                      -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/manyapatkar974/manyapatkar974/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="./assets/manya_contribution_snake_PERFECT.gif"
+     width="100%"
+     alt="Contribution Snake">
 
 </div>
 
----
-
-# 🌐 CONNECT WITH ME
+<br>
 
 <div align="center">
 
-<a href="https://www.instagram.com/maanu12262">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF66"/>
-</a>
+<img src="https://raw.githubusercontent.com/manyapatkar974/manyapatkar974/output/github-contribution-grid-snake-blue.svg"
+     width="100%"
+     alt="GitHub Contribution Snake">
 
-<a href="https://www.linkedin.com/in/manya-patkar">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         MOTIVATION                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_motivation_card_FULL_SIZE.gif"
+     alt="Motivation">
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                     CONNECT WITH ME                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/manya_connect_with_me_exact_style.gif"
+     width="100%"
+     alt="Connect With Me">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/manyapatkar974">
+<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"
+     alt="GitHub">
 </a>
 
 <a href="mailto:manyapatkar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/>
-</a>
-
-<a href="https://github.com/manyapatkar974">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Gmail-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335"
+     alt="Gmail">
 </a>
 
 </div>
 
----
+<br>
 
-# 💬 DEVELOPER QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
-
-</div>
-
----
+<!-- ========================================================= -->
+<!--                           FOOTER                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-### 🟢 `SYSTEM STATUS`
-
-```text
-╔══════════════════════════════════════════╗
-║       Manya Patkar — Developer          ║
-╠══════════════════════════════════════════╣
-║  Full Stack        : ONLINE ✓           ║
-║  AI / ML           : ACTIVE ✓           ║
-║  Cybersecurity     : EXPLORING ✓        ║
-║  Backend           : ACTIVE ✓           ║
-║  Cloud             : LEARNING ✓         ║
-║  Hackathons        : READY ✓            ║
-╚══════════════════════════════════════════╝
-```
-
-### ⚡ Building today. Learning tomorrow. Creating beyond.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:001a0d,100:000000&height=120&section=footer&animation=twinkling"/>
+<img src="./assets/manya_footer_ONLY_LINE.png"
+     width="100%"
+     alt="Thanks for visiting">
 
 </div>
 
-<!--
-████████████████████████████████████████████
-          M A N Y A   P A T K A R
-████████████████████████████████████████████
--->
+<br>
+
+<div align="center">
+
+**BUILD • LEARN • CREATE • IMPROVE**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manyapatkar974&style=for-the-badge&color=1683FF&label=PROFILE+VIEWS"
+     alt="Profile Views">
+
+</div>
