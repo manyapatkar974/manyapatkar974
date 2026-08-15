@@ -350,15 +350,11 @@ Explores detection of manipulated digital media using computer vision and machin
 <!-- ========================================================= -->
 
 <div align="center">
-
 <img src="./assets/manya_connect_with_me_exact_style.gif"
      width="100%"
      alt="Connect With Me">
 
 </div>
-
-<br><br>
-
 <table align="center">
 <tr>
 
@@ -400,13 +396,6 @@ Explores detection of manipulated digital media using computer vision and machin
 
 </tr>
 </table>
-
-<br>
-
-<br>
-
-
-
 
 <br>
 
