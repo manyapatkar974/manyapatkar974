@@ -2,7 +2,12 @@
 
 <img src="./assets/manya_blue_cyber_animated_hero.gif"
      width="100%"
-     alt="Manya Patkar">
+     alt="Manya Patkar - Developer Profile">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=1683FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+%7C+Cloud+%7C+Backend;Hackathon+Enthusiast;Building+Ideas+Into+Real+World+Projects+%F0%9F%9A%80"
+     alt="Typing SVG">
 
 </div>
 
@@ -22,68 +27,72 @@
 
 <br>
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### 👩‍💻 WHO AM I?
 
-## 👩‍💻 WHO AM I?
+</div>
 
-🎓 **Computer Science Engineering Student**
+<p align="center">
 
-💻 Passionate about **Full Stack Development**
-
-🤖 Exploring **AI / ML, Data Science & Deep Learning**
-
-🛡️ Interested in **Cybersecurity & Networking**
-
-☁️ Exploring **Cloud, DevOps & Backend Engineering**
-
-🏆 **Hackathon Enthusiast** & problem solver
-
-🚀 Turning ideas into **real-world solutions**
-
+🎓 <b>Computer Science Engineering Student</b><br>
+💻 Passionate about <b>Full Stack Development</b><br>
+🤖 Exploring <b>AI / ML, Data Science & Deep Learning</b><br>
+🛡️ Interested in <b>Cybersecurity & Networking</b><br>
+☁️ Exploring <b>Cloud, DevOps & Backend Engineering</b><br>
+🏆 <b>Hackathon Enthusiast</b> & problem solver<br>
+🚀 Turning ideas into <b>real-world solutions</b><br>
 🌱 Always learning, building and improving.
 
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ CURRENTLY FOCUSED ON
-
-```text
-> BUILD
-> LEARN
-> EXPERIMENT
-> SOLVE
-> IMPROVE
-```
-
-🔹 Building real-world applications
-
-🔹 Exploring AI-powered solutions
-
-🔹 Strengthening backend & system design
-
-🔹 Learning cloud & deployment technologies
-
-🔹 Exploring cybersecurity
-
-🔹 Building projects through hackathons
+</p>
 
 <br>
 
-```text
-STATUS : ONLINE 🟢
+<div align="center">
 
-MISSION :
-BUILD • LEARN • CREATE • IMPROVE
-```
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### ⚡ BUILD
+
+Creating practical applications and turning ideas into working products.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 LEARN
+
+Exploring AI, backend engineering, cloud and cybersecurity.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 IMPROVE
+
+Learning through projects, experiments and hackathons.
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+STATUS  :  ONLINE 🟢
+
+MISSION :  BUILD • LEARN • CREATE • IMPROVE
+```
+
+</div>
 
 <br>
 
@@ -101,50 +110,42 @@ BUILD • LEARN • CREATE • IMPROVE
 
 <br>
 
+<div align="center">
+
 ### 🎨 FRONTEND
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,figma&theme=dark"
-     alt="Frontend Technologies">
+     alt="Frontend">
 
-</p>
+<br><br>
 
 ### ⚙️ BACKEND
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java&theme=dark"
-     alt="Backend Technologies">
+     alt="Backend">
 
-</p>
+<br><br>
 
 ### 🤖 AI / MACHINE LEARNING
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"
-     alt="AI ML Technologies">
+     alt="AI ML">
 
-</p>
+<br><br>
 
 ### 🗄️ DATABASES
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase&theme=dark"
-     alt="Database Technologies">
+     alt="Databases">
 
-</p>
+<br><br>
 
-### ☁️ CLOUD / DEVOPS / TOOLS
-
-<p align="center">
+### ☁️ CLOUD • DEVOPS • TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify&theme=dark"
-     alt="Cloud DevOps Tools">
+     alt="Cloud DevOps">
 
-</p>
+</div>
 
 <br>
 
@@ -169,9 +170,9 @@ BUILD • LEARN • CREATE • IMPROVE
 
 ## 🧾 Receipto
 
-### AI-Driven Receipt Processing & Warranty Tracking System
+### AI-Driven Receipt Processing & Warranty Tracking
 
-A production-oriented application that digitizes receipts using AI, extracts useful information, securely stores receipt data and helps users track warranties.
+Digitizes receipts using AI, extracts useful information, securely stores receipt data and helps users track warranties.
 
 **Tech Stack**
 
@@ -179,10 +180,10 @@ A production-oriented application that digitizes receipts using AI, extracts use
 
 `Firebase` `Supabase` `Gemini AI`
 
-**Features**
+**Highlights**
 
 - 📸 AI-powered receipt scanning
-- 🤖 OCR & intelligent data extraction
+- 🤖 OCR & intelligent extraction
 - 🧾 Receipt management
 - ⏰ Warranty tracking
 - 📊 Expense analytics
@@ -194,9 +195,9 @@ A production-oriented application that digitizes receipts using AI, extracts use
 
 ## 🛡️ CyberShield AI
 
-### AI-Powered Network Threat Detection System
+### AI-Powered Network Threat Detection
 
-A cybersecurity project focused on detecting suspicious network traffic and identifying different types of cyber attacks using machine learning.
+A cybersecurity project focused on analyzing network traffic and identifying different types of cyber attacks using machine learning.
 
 **Tech Stack**
 
@@ -204,7 +205,7 @@ A cybersecurity project focused on detecting suspicious network traffic and iden
 
 `Network Security` `AI / ML`
 
-**Features**
+**Highlights**
 
 - 🔍 Network traffic analysis
 - 🤖 ML-based threat detection
@@ -224,7 +225,7 @@ A cybersecurity project focused on detecting suspicious network traffic and iden
 
 ### Smart Examination Seat Allotment System
 
-A web-based examination management system that automates student seating allocation, faculty invigilation assignment and exam management.
+Automates student seating allocation, faculty invigilation assignment and examination management.
 
 **Tech Stack**
 
@@ -232,7 +233,7 @@ A web-based examination management system that automates student seating allocat
 
 `Firebase` `Email Automation`
 
-**Features**
+**Highlights**
 
 - 🪑 Automated seat allocation
 - 👨‍🏫 Faculty duty allocation
@@ -247,9 +248,9 @@ A web-based examination management system that automates student seating allocat
 
 ## 🔍 TruthLens
 
-### AI-Powered Fake Media Detection System
+### AI-Powered Fake Media Detection
 
-An AI-based project designed to explore detection of manipulated or fake digital media using computer vision and machine learning.
+Explores detection of manipulated digital media using computer vision and machine learning.
 
 **Tech Stack**
 
@@ -257,7 +258,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 `AI` `Deep Learning`
 
-**Features**
+**Highlights**
 
 - 🧠 AI-based detection
 - 👁️ Computer vision
@@ -275,8 +276,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 <a href="https://github.com/manyapatkar974?tab=repositories">
 
-<img src="https://img.shields.io/badge/VIEW_MORE_PROJECTS-1683FF?style=for-the-badge&logo=github&logoColor=white"
-     alt="View More Projects">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-1683FF?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -314,7 +314,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 <div align="center">
 
-<img width="70%"
+<img width="75%"
      src="https://streak-stats.demolab.com/?user=manyapatkar974&theme=github-dark-blue&hide_border=true&background=07111F&ring=1683FF&fire=1683FF&currStreakLabel=1683FF"
      alt="GitHub Streak">
 
@@ -324,7 +324,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=07111f&color=1683ff&line=1683ff&point=ffffff&area=true&hide_border=true"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyapatkar974&bg_color=07111F&color=1683FF&line=1683FF&point=FFFFFF&area=true&hide_border=true"
      width="100%"
      alt="GitHub Activity Graph">
 
@@ -348,9 +348,16 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/manyapatkar974/manyapatkar974/output/github-contribution-grid-snake-blue.svg"
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/manyapatkar974/manyapatkar974/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/manyapatkar974/manyapatkar974/output/github-contribution-grid-snake.svg"
      width="100%"
      alt="GitHub Contribution Snake">
+
+</picture>
 
 </div>
 
@@ -363,6 +370,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 <div align="center">
 
 <img src="./assets/manya_motivation_card_FULL_SIZE.gif"
+     width="85%"
      alt="Motivation">
 
 </div>
@@ -386,13 +394,17 @@ An AI-based project designed to explore detection of manipulated or fake digital
 <div align="center">
 
 <a href="https://github.com/manyapatkar974">
-<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"
-     alt="GitHub">
+
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=1683FF">
+
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:manyapatkar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335"
-     alt="Gmail">
+
+<img src="https://img.shields.io/badge/GMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=1683FF">
+
 </a>
 
 </div>
@@ -415,7 +427,7 @@ An AI-based project designed to explore detection of manipulated or fake digital
 
 <div align="center">
 
-**BUILD • LEARN • CREATE • IMPROVE**
+### 💙 BUILD • LEARN • CREATE • IMPROVE
 
 </div>
 
