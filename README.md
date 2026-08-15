@@ -94,9 +94,11 @@ MISSION :  BUILD • LEARN • CREATE • IMPROVE
      alt="Tech Stack">
 
 </div>
+
 <br>
 
 <div align="center">
+     
 ### 🎨 FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,figma&theme=dark"
