@@ -102,7 +102,6 @@ MISSION :  BUILD • LEARN • CREATE • IMPROVE
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,figma&theme=dark"
      alt="Frontend">
 
-<br>
 
 ### ⚙️ BACKEND
 
